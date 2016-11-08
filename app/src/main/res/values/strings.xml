@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Carmani</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="menu_myVihicles">My Vehicles</string>
+    <string name="menu_garages">Garages</string>
+    <string name="menu_parts">Vehicle Parts</string>
+    <string name="menu_accessories">Accessories</string>
+    <string name="carmani_text" translatable="false">Carmani</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carmani</string>
+    <string name="action_settings">Ρυθμίσεις</string>
+    <string name="menu_accessories">Αξεσουάρ</string>
+    <string name="menu_garages">Συνεργεία</string>
+    <string name="menu_myVihicles">Τα οχήματα μου</string>
+    <string name="menu_parts">Ανταλλακτικά</string>
+    <string name="navigation_drawer_close">Κλείσιμο</string>
+    <string name="navigation_drawer_open">Άνοιγμα</string>
+    <string name="my_vihicles_main_text"></string>
+</resources>

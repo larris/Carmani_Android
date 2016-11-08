@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myVihicles"
+            android:icon="@drawable/ic_directions_car_black_24dp"
+            android:title="@string/menu_myVihicles" />
+        <item
+            android:id="@+id/nav_garages"
+            android:icon="@drawable/ic_garages_24dp"
+            android:title="@string/menu_garages" />
+        <item
+            android:id="@+id/nav_parts"
+            android:icon="@drawable/ic_vihicle_parts_24dp"
+            android:title="@string/menu_parts" />
+        <item
+            android:id="@+id/nav_accesories"
+            android:icon="@drawable/ic_accessories_24dp"
+            android:title="@string/menu_accessories" />
+    </group>
+
+</menu>
